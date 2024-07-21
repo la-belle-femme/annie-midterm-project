@@ -50,7 +50,8 @@ created a `.env` file in the root of the project directory with the following ke
 - `WOLFRAM_APP_ID`: my app ID for Wolfram Alpha.
 
 ## Setup Instructions
- Detailed instructions on how I set up the project environment: -->
+
+ Detailed instructions on how I set up the project environment:
 1- Set up my development environment:
 a. Created a new directory for my project: mkdir"name_of_my_directory", cd "name_of_my_directory"
 
