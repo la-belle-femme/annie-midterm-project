@@ -68,8 +68,10 @@ b. Activated the virtual environment with command: chatbot_env\Scripts\activate
 - <https://openweathermap.org/>,
 - <https://developer.wolframalpha.com/>
 
-5- a.In the same working directory, I created a .env file to set up my environment variables,
-   b.Added to my .env file the following : OPENAI_API_KEY=your_openai_api_key_here
+5- Environment Variables.
+a.In the same working directory, I created a .env file to set up my environment variables,
+b.Added to my .env file the following :
+   OPENAI_API_KEY=your_openai_api_key_here
    NEWS_API_KEY=your_newsapi_key_here
    OPENWEATHER_API_KEY=your_openweathermap_api_key_here
    WOLFRAM_APP_ID=your_wolfram_alpha_app_id_here
