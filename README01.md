@@ -53,25 +53,25 @@ created a `.env` file in the root of the project directory with the following ke
 
 ## Detailed instructions on how I set up the project environment:
 
-1- Set up my development environment:
+## 1- Set up my development environment:
 a. Created a new directory for my project: mkdir"name_of_my_directory", cd "name_of_my_directory"
 
-2- Virtual Environment
+## 2- Virtual Environment
 
 a. Set up a virtual environment by creating a virtual environment with the command: python -m venv chatbot_env
 
 b. Activated the virtual environment with command: chatbot_env\Scripts\activate
 
-3- Installed required libraries with command:pip install openai psutil requests newsapi-python wolframalpha python-dotenv
+## 3- Installed required libraries with command:pip install openai psutil requests newsapi-python wolframalpha python-dotenv
 
-4- Signed up and obtained API keys from websites:
+## 4- Signed up and obtained API keys from websites:
 
 - <https://openai.com/>,
 - <https://newsapi.org/>,
 - <https://openweathermap.org/>,
 - <https://developer.wolframalpha.com/>
 
-5- Environment Variables.
+## 5- Environment Variables.
 
 a.In the same working directory, I created a .env file to set up my environment variables,
 
@@ -85,13 +85,13 @@ OPENWEATHER_API_KEY=my_openweathermap_api_key_here
 
 WOLFRAM_APP_ID=my_wolfram_alpha_app_id_here
 
-6- Created the first script called annie-midterm-project.py
+## 6- Created the first script called annie-midterm-project.py
 
-7- Created the automated test script called annie-automated-test_script.py
+## 7- Created the automated test script called annie-automated-test_script.py
 
-8- On my terminal, Ran python annie-midterm-project.py and python annie-automated-test_script.py.
+## 8- On my terminal, Ran python annie-midterm-project.py and python annie-automated-test_script.py.
 
-9-When prompted entered the following questions:
+## 9-When prompted entered the following questions:
 
 ."What time is it?"
 
