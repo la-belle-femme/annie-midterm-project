@@ -69,6 +69,7 @@ b. Activated the virtual environment with command: chatbot_env\Scripts\activate
 - <https://developer.wolframalpha.com/>
 
 5- Environment Variables.
+
 a.In the same working directory, I created a .env file to set up my environment variables,
 b.Added to my .env file the following :
    OPENAI_API_KEY=your_openai_api_key_here
