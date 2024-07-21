@@ -93,7 +93,7 @@ WOLFRAM_APP_ID=my_wolfram_alpha_app_id_here
 ."What's the battery status of this device?"
 ."Give me the top headlines for technology in the US."
 ."What's the weather like in New York?"
-."What's the capital of France?"
+."What's the capital of Cameroon?"
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
