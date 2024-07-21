@@ -89,11 +89,17 @@ WOLFRAM_APP_ID=my_wolfram_alpha_app_id_here
 8- On my terminal, Ran python annie-midterm-project.py and python annie-automated-test_script.py.
 
 9-When prompted entered the following questions:
+
 ."What time is it?"
+
 ."What's the battery status of this device?"
+
 ."Give me the top headlines for technology in the US."
+
 ."What's the weather like in New York?"
+
 ."What's the capital of Cameroon?"
+
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
