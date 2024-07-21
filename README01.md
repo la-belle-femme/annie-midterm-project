@@ -74,13 +74,13 @@ a.In the same working directory, I created a .env file to set up my environment 
 
 b.Added to my .env file the following :
 
-OPENAI_API_KEY=your_openai_api_key_here
+OPENAI_API_KEY=my_openai_api_key_here
 
-NEWS_API_KEY=your_newsapi_key_here
+NEWS_API_KEY=my_newsapi_key_here
 
-OPENWEATHER_API_KEY=your_openweathermap_api_key_here
+OPENWEATHER_API_KEY=my_openweathermap_api_key_here
 
-WOLFRAM_APP_ID=your_wolfram_alpha_app_id_here
+WOLFRAM_APP_ID=my_wolfram_alpha_app_id_here
 
 6- Created the first script called annie-midterm-project.py
 
