@@ -73,6 +73,7 @@ b. Activated the virtual environment with command: chatbot_env\Scripts\activate
 a.In the same working directory, I created a .env file to set up my environment variables,
 
 b.Added to my .env file the following :
+
 OPENAI_API_KEY=your_openai_api_key_here
 
 NEWS_API_KEY=your_newsapi_key_here
