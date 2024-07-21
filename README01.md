@@ -51,12 +51,15 @@ created a `.env` file in the root of the project directory with the following ke
 
 ## Setup Instructions
 
-Detailed instructions on how I set up the project environment:
+## Detailed instructions on how I set up the project environment:
 
 1- Set up my development environment:
 a. Created a new directory for my project: mkdir"name_of_my_directory", cd "name_of_my_directory"
 
-2- a. Set up a virtual environment by creating a virtual environment with the command: python -m venv chatbot_env
+2- Virtual Environment
+
+a. Set up a virtual environment by creating a virtual environment with the command: python -m venv chatbot_env
+
 b. Activated the virtual environment with command: chatbot_env\Scripts\activate
 
 3- Installed required libraries with command:pip install openai psutil requests newsapi-python wolframalpha python-dotenv
